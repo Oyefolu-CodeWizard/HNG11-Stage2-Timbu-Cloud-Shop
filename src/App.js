@@ -1,4 +1,5 @@
 import "./App.css";
+import TumubuCloudShop from "./components/TumubuCloudShop";
 
 function App() {
   return (
@@ -6,10 +7,6 @@ function App() {
       <TumubuCloudShop />
     </div>
   );
-}
-
-function TumubuCloudShop() {
-  return <div>Hello World!!!</div>;
 }
 
 export default App;

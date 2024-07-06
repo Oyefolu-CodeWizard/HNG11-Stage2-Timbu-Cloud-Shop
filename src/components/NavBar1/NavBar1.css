@@ -1,0 +1,20 @@
+.navBar1 {
+  border: 1px solid red;
+  display: flex;
+  justify-content: space-around;
+  padding: 12px;
+  font-family: "Poppins", sans-serif;
+}
+.navBar1 p {
+  font-size: 0.9rem;
+  margin-top: 8px;
+}
+.icon svg {
+  color: grey;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.icon span {
+  font-size: 0.7rem;
+  cursor: pointer;
+}

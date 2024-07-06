@@ -1,0 +1,36 @@
+.navBar2 {
+  display: flex;
+  justify-content: space-evenly;
+  border: 1px solid red;
+  background-color: #1e1e1e;
+  color: #fff;
+  padding: 5px;
+  font-family: "Poppins", sans-serif;
+}
+.navBar2 p {
+  font-size: 0.9rem;
+  margin-top: 12px;
+  cursor: pointer;
+}
+.search {
+  border-bottom: 2px solid #ffffffbb;
+  margin-bottom: 10px;
+  margin-left: 25px;
+}
+.search input {
+  background: transparent;
+  border: none;
+  outline: none;
+  color: #fff;
+  caret-color: #fff;
+  font-size: 0.8rem;
+  padding: 10px 10px;
+}
+.search input::placeholder {
+  color: #fff;
+}
+.cart svg {
+  margin-right: 12px;
+  margin-top: 12px;
+  cursor: pointer;
+}
