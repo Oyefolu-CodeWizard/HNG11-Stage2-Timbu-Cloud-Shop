@@ -1,8 +1,9 @@
 .product-banner {
   width: 100%;
   height: 520px;
-  background-image: url(../../assets/ProductBanner.png);
+  background-image: url(../../assets/ProductBanner.jpg);
   background-size: cover;
+  background-position: center;
   color: #fff;
   font-family: "Poppins", sans-serif;
   position: relative;
@@ -28,4 +29,5 @@
   margin-top: 1rem;
   border: none;
   outline: none;
+  cursor: pointer;
 }

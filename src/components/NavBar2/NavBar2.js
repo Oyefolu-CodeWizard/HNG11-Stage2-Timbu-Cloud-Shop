@@ -2,10 +2,10 @@ import "./NavBar2.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faPlus,
-  faHeart,
   faSearch,
   faShoppingBag,
 } from "@fortawesome/free-solid-svg-icons";
+import { faHeart } from "@fortawesome/free-regular-svg-icons";
 import { useState } from "react";
 
 function NavBar2() {
