@@ -5,6 +5,7 @@
   background-size: cover;
   color: #fff;
   font-family: "Poppins", sans-serif;
+  position: relative;
   border: 1px solid red;
 }
 .product-intro {
