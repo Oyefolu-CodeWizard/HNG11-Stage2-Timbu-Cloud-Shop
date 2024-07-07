@@ -1,0 +1,30 @@
+.product-banner {
+  width: 100%;
+  height: 520px;
+  background-image: url(../../assets/ProductBanner.png);
+  background-size: cover;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  border: 1px solid red;
+}
+.product-intro {
+  width: 50%;
+  margin: 5rem 4rem;
+  border: 1px solid red;
+}
+.product-intro p {
+  font-size: 0.9rem;
+}
+.product-intro h3 {
+  font-size: 3rem;
+  font-weight: 400;
+}
+.product-intro button {
+  width: 6rem;
+  padding: 10px;
+  background-color: red;
+  color: #fff;
+  margin-top: 1rem;
+  border: none;
+  outline: none;
+}
