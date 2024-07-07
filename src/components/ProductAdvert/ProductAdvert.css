@@ -1,5 +1,8 @@
 .product-advert {
+  width: 100%;
+  height: 30rem;
   display: flex;
+  border: 1px solid red;
 }
 .product-advert img {
   width: 40rem;

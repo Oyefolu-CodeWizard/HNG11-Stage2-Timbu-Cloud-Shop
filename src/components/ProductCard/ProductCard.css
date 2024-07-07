@@ -1,0 +1,33 @@
+.product-update {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Poppins", sans-serif;
+  border: 1px solid red;
+}
+.product-update h2 {
+  padding: 0 5rem;
+}
+.product-trend {
+  display: flex;
+}
+.product-trend p {
+  margin-right: 4rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+/* Card style */
+.card-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-row-gap: 2rem;
+  place-items: center;
+  margin: 1rem 0;
+  padding: 0 5rem;
+  border: 2px solid green;
+}
+.card {
+  width: 389px;
+  height: 508px;
+  border: 1px solid red;
+}
