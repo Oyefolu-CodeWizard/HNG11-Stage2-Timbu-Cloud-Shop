@@ -1,0 +1,38 @@
+.product-advert {
+  display: flex;
+}
+.product-advert img {
+  width: 40rem;
+  position: absolute;
+  top: 75%;
+  left: 5%;
+}
+.advert-text {
+  position: absolute;
+  left: 45%;
+  top: 115%;
+  border: 1px solid red;
+}
+.advert-text h1 {
+  color: #47b5ff;
+  font-weight: 600;
+  font-size: 3rem;
+}
+.advert-text p {
+  color: #47b5ff;
+  font-weight: 400;
+  font-size: 0.9rem;
+  letter-spacing: 0.2rem;
+}
+.advert-text h5 {
+  color: #1a1a1ac2;
+  font-weight: 600;
+  font-size: 1.1rem;
+  padding: 6px 10px;
+  margin-top: 1.5rem;
+  margin-left: 0.7rem;
+  letter-spacing: 0.2rem;
+  border: 1px solid red;
+  width: 60%;
+  text-align: center;
+}
